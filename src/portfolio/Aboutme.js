@@ -16,7 +16,7 @@ export default class Aboutme extends Component {
           </div>
           <div className="col-md-7">
             <div className="row person_details">
-              <h3><span>Faisal Abbas</span></h3>
+              <h3><span>M Asif Ashraf</span></h3>
               <h4>Looking for an Opportunity as ReactJs Developer</h4>
               <p>Since 2019, I have served as a Web Developer, I have been repeatedly recognized for
                 developing innovative solutions for websites. I am
