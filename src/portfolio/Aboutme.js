@@ -17,13 +17,8 @@ export default class Aboutme extends Component {
           <div className="col-md-7">
             <div className="row person_details">
               <h3><span>M Asif Ashraf</span></h3>
-              <h4>Looking for an Opportunity as ReactJs Developer</h4>
-              <p>Since 2019, I have served as a Web Developer, I have been repeatedly recognized for
-                developing innovative solutions for websites. I am
-                responsible for full initial requirement gathering to design, coding,
-                and implementation. I have developed efficiently projects using ReactJs and
-                PHP Laravel
-                and well known APIs. I am always open to the challenges in software development.</p>
+              <h4>Android Developer (Java,Kotlin)</h4>
+              <p>Intelligent and hardworking Mobile App Developer with a background of 3 years in Android Development Highly educated and committed to creating dynamic apps for Android environment. Extensive knowledge of App Development using Java and Kotlin.</p>
               <div className="person_information">
                 <ul>
                   <li>Location</li>
