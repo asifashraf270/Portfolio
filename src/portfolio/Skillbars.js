@@ -1,11 +1,13 @@
 import React, { Component } from 'react'
 import SkillBars from 'react-skillbars';
 export const NEWSKILLS = [
-    {type: "PHP", level: 70},
-    {type: "MYSQL", level: 70},
-    {type: "LARAVEL", level: 50},
-    {type: "CSS", level: 60},
-    {type: "HTML", level: 60},
+    {type: "XMPP(Client)", level: 70},
+    {type: "WebRtc", level: 60},
+    {type: "Linephone", level: 60},
+    {type: "Amazon S3 ", level: 60},
+    {type: "Retrofit", level: 85},
+    {type:"Data Binding",level:80}
+
   ];
   const COLORS = {
     "bar": "#27a79a",

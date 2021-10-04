@@ -2,11 +2,13 @@ import React, { Component } from 'react'
 import SkillBar from 'react-skillbars';
 import Skillbars from './Skillbars'
 export const SKILLS = [
-  {type: "REACTJS", level: 70},
-  {type: "REDUX", level: 60},
-  {type: "JAVASCRIPT", level: 50},
-  {type: "JQUERY", level: 50},
-  {type: "BOOTSTRAP", level: 50},
+  {type: "Android Development", level: 85},
+  {type: "Kotlin", level: 70},
+  {type: "Java", level: 70},
+  {type: "Room Persistence", level: 70},
+  {type: "MVVM", level: 70},
+  {type:"Dagger 2",level:70},
+  {type:"PHP Core",level:50},
   
 ];
 const COLORS = {

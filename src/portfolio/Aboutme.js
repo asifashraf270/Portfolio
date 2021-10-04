@@ -18,7 +18,7 @@ export default class Aboutme extends Component {
             <div className="row person_details">
               <h3><span>M Asif Ashraf</span></h3>
               <h4>Android Developer (Java,Kotlin)</h4>
-              <p>Intelligent and hardworking Mobile App Developer with a background of 3 years in Android Development Highly educated and committed to creating dynamic apps for Android environment. Extensive knowledge of App Development using Java and Kotlin.</p>
+              <p>Intelligent and hardworking Mobile App Developer with a background of 3.5 years in Android Development Highly educated and committed to creating dynamic apps for Android environment. Extensive knowledge of App Development using Java and Kotlin.</p>
               <div className="person_information">
                 <ul>
                   <li>Location</li>
@@ -29,9 +29,9 @@ export default class Aboutme extends Component {
                 </ul>
                 <ul>
                   <li>Lahore, Pakistan</li>
-                  <li><a href="tel:+923024096006">+923024096006</a></li>
-                  <li><a href="https://join.skype.com/invite/oLsdDRytTeN5" target="_blank">live:faisalsandhu166</a></li>
-                  <li><a href="mailto:faisalabbas.bscs@gmail.com"><span>faisalabbas.bscs@gmail.com</span></a></li>
+                  <li><a href="tel:+92308520270">+923085270270</a></li>
+                  <li><a href="https://join.skype.com/invite/oLsdDRytTeN5" target="_blank">live:asifdev270</a></li>
+                  <li><a href="mailto:muhammadasifashraf270@gmail.com"><span>muhammadasifashraf270@gmail.com</span></a></li>
                   <li><a href="https://faisalabbas.netlify.com/">www.faisalabbas.netlify.com</a></li>
                 </ul>
               </div>

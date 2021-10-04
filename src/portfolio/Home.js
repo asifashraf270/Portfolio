@@ -3,11 +3,13 @@ import GitHubCalendar from 'react-github-calendar';
 import SkillBar from 'react-skillbars';
 import Skillbars from './Skillbars'
 export const SKILLS = [
-  {type: "REACTJS", level: 70},
-  {type: "REDUX", level: 60},
-  {type: "JAVASCRIPT", level: 50},
-  {type: "JQUERY", level: 50},
-  {type: "BOOTSTRAP", level: 50},
+  {type: "Android Development", level: 85},
+  {type: "Kotlin", level: 70},
+  {type: "Java", level: 70},
+  {type: "Room Persistence", level: 70},
+  {type: "MVVM", level: 70},
+  {type:"Dagger 2",level:70},
+  {type:"PHP Core",level:50},
   
 ];
 const COLORS = {
@@ -60,7 +62,7 @@ export default class Home extends Component {
             <div className="row person_details">
               <h3><span>M Asif Ashraf</span></h3>
               <h4>Android Developer (Java,Kotlin)</h4>
-              <p>Intelligent and hardworking Mobile App Developer with a background of 3 years in Android Development Highly educated and committed to creating dynamic apps for Android environment. Extensive knowledge of App Development using Java and Kotlin.</p>
+              <p>Intelligent and hardworking Mobile App Developer with a background of 3.5 years in Android Development Highly educated and committed to creating dynamic apps for Android environment. Extensive knowledge of App Development using Java and Kotlin.</p>
               <div className="person_information">
                 <ul>
                   <li>Location</li>
