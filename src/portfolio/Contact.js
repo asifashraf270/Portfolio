@@ -29,7 +29,7 @@ export default class Contact extends Component {
                 </div>
                 <div className="media-body">
                   <h4>Skype</h4>
-                  <p><a href="https://join.skype.com/invite/oLsdDRytTeN5" target="_blank">live:faisalsandhu166</a></p>
+                  <p><a href="https://join.skype.com/invite/oLsdDRytTeN5" target="_blank">live:asifdev270</a></p>
                 </div>
               </div>
               <div className="media">
@@ -38,7 +38,7 @@ export default class Contact extends Component {
                 </div>
                 <div className="media-body">
                   <h4>Email</h4>
-                  <p><a href="mailto:faisalabbas.bscs@gmail.com"><span>faisalabbas.bscs@gmail.com</span></a></p>
+                  <p><a href="mailto:muhammadasifashraf270@gmail.com"><span>muhammadasifashraf270@gmail.com</span></a></p>
                 </div>
               </div>
             </div>

@@ -10,10 +10,10 @@ export default class GitContribution extends Component {
        
         <div className="row">
           <div className="col-md-12">
-            <a style={{textTransform: 'none'}} href="https://github.com/Faisal700" target="_blank">
+            <a style={{textTransform: 'none'}} href="https://github.com/asifashraf270" target="_blank">
               <div className="row person_details">
                 <div className="calendar">
-                <GitHubCalendar username="Faisal700" fullYear={false} blockSize={10} blockMargin={10}/> 
+                <GitHubCalendar username="asifashraf270" fullYear={false} blockSize={10} blockMargin={10}/> 
                 </div>
               </div>
             </a>
