@@ -82,12 +82,11 @@ export default class Home extends Component {
               <ul className="social_icon">
                 <li><a href="https://github.com/asifashraf270" target="_blank"><i className="fa fa-github" /></a></li>
                 <li><a href="https://bitbucket.org/%7B7410d184-2d78-4ea6-97e8-5f726ded7b5b%7D/" target="_blank"><i className="fa fa-bitbucket" /></a></li>
-                <li><a href="https://www.linkedin.com/in/faisal-sandhu-2a2254168/" target="_blank"><i className="fa fa-linkedin" /></a></li>
+                <li><a href="https://www.linkedin.com/in/masifashraf/" target="_blank"><i className="fa fa-linkedin" /></a></li>
                 <li><a href="https://join.skype.com/invite/oLsdDRytTeN5" target="_blank"><i className="fa fa-skype" /></a></li>
                 <li><a href="https://web.whatsapp.com/send?phone=923085270270" target="_blank"><i className="fa fa-whatsapp" /></a></li>
                 <li><a href="https://stackoverflow.com/users/11026941/faisal-sandhu" target="_blank"><i className="fa fa-stack-overflow" /></a></li>
-                <li><a href="https://web.facebook.com/faisal.fabian.3" target="_blank"><i className="fa fa-facebook" /></a></li>
-              </ul>
+               </ul>
             </div>
           </div>
         </div>
