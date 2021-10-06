@@ -8,6 +8,7 @@ export const NEWSKILLS = [
     {type: "Retrofit", level: 85},
     {type:"Data ",level:80},
     {type:"Rx Java",level:70}
+    ,{type:"Firebase",level:70}
 
   ];
   const COLORS = {

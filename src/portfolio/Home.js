@@ -10,6 +10,9 @@ export const SKILLS = [
   {type: "MVVM", level: 70},
   {type:"Dagger 2",level:70},
   {type:"PHP Core",level:50},
+  {type:"Google ",level:60},{
+    type:"Services",level:60
+  }
   
 ];
 const COLORS = {
