@@ -74,7 +74,7 @@ export default class Home extends Component {
                 <ul>
                   <li>Lahore, Pakistan</li>
                   <li><a href="tel:+923085270270">+923085270270</a></li>
-                  <li><a href="https://join.skype.com/invite/oLsdDRytTeN5" target="_blank">live:asifdev270</a></li>
+                  <li><a href="https://join.skype.com/invite/cp8Jvl6dYFwj" target="_blank">live:asifdev270</a></li>
                   <li><a href="mailto:muhammadasifashraf270@gmail.com"><span>muhammadasifashraf270@gmail.com</span></a></li>
                   <li><a href="https://faisalabbas.netlify.com/">www.faisalabbas.netlify.com</a></li>
                 </ul>
@@ -83,7 +83,7 @@ export default class Home extends Component {
                 <li><a href="https://github.com/asifashraf270" target="_blank"><i className="fa fa-github" /></a></li>
                 <li><a href="https://bitbucket.org/%7B7410d184-2d78-4ea6-97e8-5f726ded7b5b%7D/" target="_blank"><i className="fa fa-bitbucket" /></a></li>
                 <li><a href="https://www.linkedin.com/in/masifashraf/" target="_blank"><i className="fa fa-linkedin" /></a></li>
-                <li><a href="https://join.skype.com/invite/oLsdDRytTeN5" target="_blank"><i className="fa fa-skype" /></a></li>
+                <li><a href="https://join.skype.com/invite/cp8Jvl6dYFwj" target="_blank"><i className="fa fa-skype" /></a></li>
                 <li><a href="https://web.whatsapp.com/send?phone=923085270270" target="_blank"><i className="fa fa-whatsapp" /></a></li>
                 <li><a href="https://stackoverflow.com/users/11026941/faisal-sandhu" target="_blank"><i className="fa fa-stack-overflow" /></a></li>
                </ul>
@@ -215,7 +215,7 @@ export default class Home extends Component {
                 </div>
                 <div className="media-body">
                   <h4>Skype</h4>
-                  <p><a href="https://join.skype.com/invite/oLsdDRytTeN5" target="_blank">live:asifdev270</a></p>
+                  <p><a href="https://join.skype.com/invite/cp8Jvl6dYFwj" target="_blank">live:asifdev270</a></p>
                 </div>
               </div>
               <div className="media">
