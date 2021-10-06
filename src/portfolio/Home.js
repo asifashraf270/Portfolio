@@ -3,10 +3,10 @@ import GitHubCalendar from 'react-github-calendar';
 import SkillBar from 'react-skillbars';
 import Skillbars from './Skillbars'
 export const SKILLS = [
-  {type: "Android Development", level: 85},
+  {type: "Android ", level: 85},
   {type: "Kotlin", level: 70},
   {type: "Java", level: 70},
-  {type: "Room Persistence", level: 70},
+  {type: "Room Database", level: 70},
   {type: "MVVM", level: 70},
   {type:"Dagger 2",level:70},
   {type:"PHP Core",level:50},
@@ -19,7 +19,7 @@ const COLORS = {
       "hue": 170,
       "saturation": {
         "minimum": 30,
-        "maximum": 70
+        "maximum": 100
       },
       "level": 90
     },
@@ -54,7 +54,7 @@ export default class Home extends Component {
         <div className="row">
           <div className="col-md-5">
             <div className="person_img">
-              <img src="img/member/faisal.jpg" alt="" />
+              <img src="img/member/asif.jpg" alt="" width="300px" />
               <a className="download_btn" href="https://drive.google.com/open?id=1jACMDFdr-4LM55BEp4AvnqOTif_NfD5u" target="_blank"><span>Download Resume</span></a>
             </div>
           </div>
@@ -101,7 +101,7 @@ export default class Home extends Component {
                   <h4>Web development Skills</h4>                 
                 </div>
                 <div >
-                  <SkillBar  skills={SKILLS}  colors={COLORS}/>
+                  <SkillBar  skills={SKILLS}  colors={COLORS} />
                 </div>
               </div>
                 <div className="col-md-6 wow fadeInUp">
@@ -162,34 +162,34 @@ export default class Home extends Component {
           <h2>Education</h2>
         </div>
         <div className="education_inner_area">
-          <div className="education_item wow fadeInUp animated" data-line="D">
+          {/* <div className="education_item wow fadeInUp animated" data-line="D">
           <h6>2019</h6>
             <a target="_blank" href="https://www.erozgaar.pitb.gov.pk">
               <h4>PHP Tech Domain(PITB)</h4>
             </a>
             <h5>PITB Punjab University Lahore</h5>
-          </div>
-          <div className="education_item wow fadeInUp animated" data-line="C">
+          </div> */}
+          <div className="education_item wow fadeInUp animated" data-line="B">
           <h6>2014-2018</h6>
             <a target="_blank" href="http://www.lgu.edu.pk/">
               <h4>Bachelor of Computer Science (BSCS)</h4>
             </a>
             <h5>Lahore Garrison University, Main Campus</h5>
           </div>
-          <div className="education_item wow fadeInUp animated b_section" data-line="B">
+          <div className="education_item wow fadeInUp animated b_section" data-line="A">
           <h6>2012-2014</h6>
-            <a target="_blank" href="https://superiorcolleges.edu.pk/superior-college-hafizabad/">
+            <a target="_blank" href="http://pu.edu.pk/affiliation/collegeinfo/280/Govt.-Postgraduate-College-for-Boys-Satellite-Town-Rawalpindi">
               <h4>Higher Secondary School</h4>
             </a>
-            <h5>Superior College Hafizabad</h5>
+            <h5>Govt. Post Graduate College for Boys Satellite Town</h5>
           </div>
-          <div className="education_item wow fadeInUp animated a_section" data-line="A">
+          {/* <div className="education_item wow fadeInUp animated a_section" data-line="A">
           <h6>2010-2012</h6>
             <a target="_blank" href="http://www.schoolinglog.com/school/MISALI-PUBLIC-SCHOOL-HAFIZABAD_181347.html">
               <h4>Secondary School</h4>
             </a>
             <h5>Govt. Post Graduate College for Boys Satellite Town</h5>
-          </div>
+          </div> */}
         </div>
       </section>
       <section className="contact_area pad" id="contact">

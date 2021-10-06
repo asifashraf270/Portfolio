@@ -6,7 +6,8 @@ export const NEWSKILLS = [
     {type: "Linephone", level: 60},
     {type: "Amazon S3 ", level: 60},
     {type: "Retrofit", level: 85},
-    {type:"Data Binding",level:80}
+    {type:"Data ",level:80},
+    {type:"Rx Java",level:70}
 
   ];
   const COLORS = {
@@ -18,7 +19,7 @@ export const NEWSKILLS = [
           "minimum": 30,
           "maximum": 70
         },
-        "level": 90
+        "level": 100
       },
       "background": {
         "hue": 170,

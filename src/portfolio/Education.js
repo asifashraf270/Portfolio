@@ -11,34 +11,34 @@ export default class Education extends Component {
           <h2>Education</h2>
         </div>
         <div className="education_inner_area">
-          <div className="education_item wow fadeInUp animated" data-line="D">
+          {/* <div className="education_item wow fadeInUp animated" data-line="D">
           <h6>2019</h6>
             <a target="_blank" href="https://www.erozgaar.pitb.gov.pk">
               <h4>PHP Tech Domain(PITB)</h4>
             </a>
             <h5>PITB Punjab University Lahore</h5>
-          </div>
-          <div className="education_item wow fadeInUp animated" data-line="C">
+          </div> */}
+          <div className="education_item wow fadeInUp animated" data-line="B">
           <h6>2014-2018</h6>
             <a target="_blank" href="http://www.lgu.edu.pk/">
               <h4>Bachelor of Computer Science (BSCS)</h4>
             </a>
             <h5>Lahore Garrison University, Main Campus</h5>
           </div>
-          <div className="education_item wow fadeInUp animated b_section" data-line="B">
+          <div className="education_item wow fadeInUp animated b_section" data-line="A">
           <h6>2012-2014</h6>
-            <a target="_blank" href="https://superiorcolleges.edu.pk/superior-college-hafizabad/">
+            <a target="_blank" href="http://pu.edu.pk/affiliation/collegeinfo/280/Govt.-Postgraduate-College-for-Boys-Satellite-Town-Rawalpindi">
               <h4>Higher Secondary School</h4>
             </a>
-            <h5>Superior College Hafizabad</h5>
+            <h5>Govt. Post Graduate College for Boys Satellite Town</h5>
           </div>
-          <div className="education_item wow fadeInUp animated a_section" data-line="A">
+          {/* <div className="education_item wow fadeInUp animated a_section" data-line="A">
           <h6>2010-2012</h6>
             <a target="_blank" href="http://www.schoolinglog.com/school/MISALI-PUBLIC-SCHOOL-HAFIZABAD_181347.html">
               <h4>Secondary School</h4>
             </a>
             <h5>Misali Public School</h5>
-          </div>
+          </div> */}
         </div>
       </section>
            </div>
