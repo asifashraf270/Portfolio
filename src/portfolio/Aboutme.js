@@ -30,7 +30,7 @@ export default class Aboutme extends Component {
                 <ul>
                   <li>Lahore, Pakistan</li>
                   <li><a href="tel:+92308520270">+923085270270</a></li>
-                  <li><a href="https://join.skype.com/invite/oLsdDRytTeN5" target="_blank">live:asifdev270</a></li>
+                  <li><a href="https://join.skype.com/invite/cp8Jvl6dYFwj" target="_blank">live:asifdev270</a></li>
                   <li><a href="mailto:muhammadasifashraf270@gmail.com"><span>muhammadasifashraf270@gmail.com</span></a></li>
                   <li><a href="https://faisalabbas.netlify.com/">www.faisalabbas.netlify.com</a></li>
                 </ul>
@@ -38,7 +38,7 @@ export default class Aboutme extends Component {
               <ul className="social_icon">
                 <li><a href="https://github.com/asifashraf270" target="_blank"><i className="fa fa-github" /></a></li>
                  <li><a href="https://www.linkedin.com/in/masifashraf/" target="_blank"><i className="fa fa-linkedin" /></a></li>
-                <li><a href="https://join.skype.com/invite/oLsdDRytTeN5" target="_blank"><i className="fa fa-skype" /></a></li>
+                <li><a href="https://join.skype.com/invite/cp8Jvl6dYFwj" target="_blank"><i className="fa fa-skype" /></a></li>
                 <li><a href="https://web.whatsapp.com/send?phone=923085270270" target="_blank"><i className="fa fa-whatsapp" /></a></li>
                 <li><a href="https://stackoverflow.com/users/8549410/asif-ashraf" target="_blank"><i className="fa fa-stack-overflow" /></a></li>
                </ul>
