@@ -80,7 +80,7 @@ export default class Home extends Component {
                   <li><a href="tel:+923085270270">+923085270270</a></li>
                   <li><a href="https://join.skype.com/invite/cp8Jvl6dYFwj" target="_blank">live:asifdev270</a></li>
                   <li><a href="mailto:muhammadasifashraf270@gmail.com"><span>muhammadasifashraf270@gmail.com</span></a></li>
-                  <li><a href="https://faisalabbas.netlify.com/">www.faisalabbas.netlify.com</a></li>
+                  <li><a href="https://asifashraf.netlify.app/">www.asifashraf.netlify.app</a></li>
                 </ul>
               </div>
               <ul className="social_icon">
