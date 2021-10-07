@@ -73,19 +73,19 @@ export default class Home extends Component {
                   <li>Phone</li>
                   <li>Skype</li>
                   <li>Email</li>
-                  <li>Website</li>
+                 
                 </ul>
                 <ul>
                   <li>Lahore, Pakistan</li>
                   <li><a href="tel:+923085270270">+923085270270</a></li>
                   <li><a href="https://join.skype.com/invite/cp8Jvl6dYFwj" target="_blank">live:asifdev270</a></li>
                   <li><a href="mailto:muhammadasifashraf270@gmail.com"><span>muhammadasifashraf270@gmail.com</span></a></li>
-                  <li><a href="https://asifashraf.netlify.app/">www.asifashraf.netlify.app</a></li>
+                 
                 </ul>
               </div>
               <ul className="social_icon">
                 <li><a href="https://github.com/asifashraf270" target="_blank"><i className="fa fa-github" /></a></li>
-                <li><a href="https://bitbucket.org/%7B7410d184-2d78-4ea6-97e8-5f726ded7b5b%7D/" target="_blank"><i className="fa fa-bitbucket" /></a></li>
+               
                 <li><a href="https://www.linkedin.com/in/masifashraf/" target="_blank"><i className="fa fa-linkedin" /></a></li>
                 <li><a href="https://join.skype.com/invite/cp8Jvl6dYFwj" target="_blank"><i className="fa fa-skype" /></a></li>
                 <li><a href="https://web.whatsapp.com/send?phone=923085270270" target="_blank"><i className="fa fa-whatsapp" /></a></li>
