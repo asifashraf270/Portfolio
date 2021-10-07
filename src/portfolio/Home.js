@@ -2,16 +2,17 @@ import React, { Component } from 'react'
 import GitHubCalendar from 'react-github-calendar';
 import SkillBar from 'react-skillbars';
 import Skillbars from './Skillbars'
+import "./home.css"
 export const SKILLS = [
-  {type: "Android ", level: 85},
+  {type: "Android Development", level: 85},
   {type: "Kotlin", level: 70},
   {type: "Java", level: 70},
   {type: "Room Database", level: 70},
   {type: "MVVM", level: 70},
   {type:"Dagger 2",level:70},
   {type:"PHP Core",level:50},
-  {type:"Google ",level:60},{
-    type:"Services",level:60
+  {type:"Google Map",level:60},{
+    type:"Google Services",level:60
   }
   
 ];

@@ -1,0 +1,15 @@
+.skillbar-title {
+    width: 176px;
+}
+
+.skillbar-bar {
+left: 171px;
+} 
+
+
+.skillbar-percent {
+    right: -15px;
+    color: black;
+    font-weight: bold;
+    font-size: 11px;
+}
