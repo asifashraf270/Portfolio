@@ -4,7 +4,7 @@ export default class Calander extends Component {
     render() {
         return (
             <div>
-               <GitHubCalendar username="Faisal700" fullYear={false} blockSize={10} blockMargin={4}/> 
+               <GitHubCalendar username="asifashraf270" fullYear={false} blockSize={10} blockMargin={4}/> 
             </div>
         )
     }
