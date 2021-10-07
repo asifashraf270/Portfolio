@@ -13,3 +13,6 @@ left: 171px;
     font-weight: bold;
     font-size: 11px;
 }
+.tawk-min-container .tawk-button-circle.tawk-button-large{
+    display: none;
+}

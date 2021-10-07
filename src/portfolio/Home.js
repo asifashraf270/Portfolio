@@ -12,7 +12,7 @@ export const SKILLS = [
   {type:"Dagger 2",level:70},
   {type:"PHP Core",level:50},
   {type:"Google Map",level:60},{
-    type:"Google Services",level:60
+   type:"Google Services",level:60
   }
   
 ];
