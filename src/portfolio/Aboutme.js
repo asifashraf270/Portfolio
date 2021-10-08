@@ -18,7 +18,7 @@ export default class Aboutme extends Component {
             <div className="row person_details">
               <h3><span>M Asif Ashraf</span></h3>
               <h4>Android Developer (Java,Kotlin)</h4>
-              <p>Intelligent and hardworking Mobile App Developer with a background of 3.5 years in Android Development Highly educated and committed to creating dynamic apps for Android environment. Extensive knowledge of App Development using Java and Kotlin.</p>
+              <p>Innovative Android Developer with 4 years of experience designing, developing, testing, maintaining, and deploying Android applications in various kinds of industries. With the objective of joining an organization with an encouraging working environment towards achieving the Organization’s goal. I can easily adjustable to a new environment and readily produce a working relationship with other team members. I am keen to learn new technologies and work on them.</p>
               <div className="person_information">
                 <ul>
                   <li>Location</li>
