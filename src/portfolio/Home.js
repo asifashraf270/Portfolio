@@ -105,7 +105,7 @@ export default class Home extends Component {
                   <h4>Web development Skills</h4>                 
                 </div>
                 <div >
-                  <SkillBar  skills={SKILLS}  colors={COLORS} />
+                  <SkillBar  skills={SKILLS}  colors={COLORS}  />
                 </div>
               </div>
                 <div className="col-md-6 wow fadeInUp">

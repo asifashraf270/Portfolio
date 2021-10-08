@@ -1,18 +1,18 @@
 .skillbar-title {
-    width: 176px;
+    width: 176px !important;
 }
 
 .skillbar-bar {
-left: 171px;
+left: 171px !important;
 } 
 
 
 .skillbar-percent {
-    right: -15px;
-    color: black;
-    font-weight: bold;
-    font-size: 11px;
+    right: -15px !important;
+    color: black !important;
+    font-weight: bold !important;
+    font-size: 11px !important;
 }
 .tawk-min-container {
-    display: none;
+    display: none !important;
 }
