@@ -111,7 +111,7 @@ export default class Home extends Component {
               </div>
                 <div className="col-md-6 wow fadeInUp">
                   <div className="skill_text ">
-                    <h4>{/* Web development Skills */}</h4>
+                    <h4>{/* Development Skills */}</h4>
                     
                   </div>
                   <div className="skill_item_inner" style={{marginTop: '25px'}}>

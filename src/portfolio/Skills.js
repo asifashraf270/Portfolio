@@ -51,7 +51,7 @@ export default class Skills extends Component {
             <div className="row ">
               <div className="col-md-6 wow fadeInUp">
                 <div className="skill_text">
-                  <h4>Web development Skills</h4>                 
+                  <h4>Development Skills</h4>                 
                 </div>
                 <div >
                   <SkillBar  skills={SKILLS} colors={COLORS} />
@@ -61,7 +61,7 @@ export default class Skills extends Component {
               <div className="row" style={{marginTop: '25px'}}>
                 <div className="col-md-6 wow fadeInUp">
                   <div className="skill_text ">
-                    <h4>{/* Web development Skills */}</h4>
+                    <h4>{/* Development Skills */}</h4>
                     
                   </div>
                   <div className="skill_item_inner">
